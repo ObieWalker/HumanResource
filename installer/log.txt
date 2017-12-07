@@ -1,0 +1,50 @@
+Client Info
+
+User Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+Remote Address : ::1
+
+Server Info
+
+Host : localhost:8080
+PHP Version : 5.6.25
+Server : Apache/2.4.23 (Win64) PHP/5.6.25
+Admin : wampserver@wampserver.invalid
+
+Document Root : C:/wamp64/www
+ROOT_PATH : C:\wamp64\www\orangehrm-4.0
+
+OrangeHRM Installation Log
+
+Mon, 27 Nov 2017 11:26:16 +0000 DB Creation - Starting
+Mon, 27 Nov 2017 11:26:16 +0000 DB Creation - Done
+Mon, 27 Nov 2017 11:26:16 +0000 DB Creation - No Errors
+Mon, 27 Nov 2017 11:26:18 +0000 Fill Data Phase 1 - Starting
+Mon, 27 Nov 2017 11:26:18 +0000 Fill Data Phase 1 - Connected to the DB Server
+Mon, 27 Nov 2017 11:26:18 +0000 Fill Data Phase 1 - Selected the DB
+Mon, 27 Nov 2017 11:26:18 +0000 Fill Data Phase 1 - Reading DB Script
+Mon, 27 Nov 2017 11:26:18 +0000 Fill Data Phase 1 - Opened DB Script
+Mon, 27 Nov 2017 11:26:18 +0000 Fill Data Phase 1 - Read DB script
+Mon, 27 Nov 2017 11:26:18 +0000 Fill Data Phase 1 - There are 285 Statements in the DB script
+Mon, 27 Nov 2017 11:29:12 +0000 MySQL Procedure Error:No database selected
+Mon, 27 Nov 2017 11:29:12 +0000 Fill Data Phase 1 - Done
+Mon, 27 Nov 2017 11:29:12 +0000 Fill Data Phase 1 - No Errors
+Mon, 27 Nov 2017 11:29:15 +0000 Fill Data Phase 2 - Starting
+Mon, 27 Nov 2017 11:29:15 +0000 Fill Data Phase 2 - Connected to the DB Server
+Mon, 27 Nov 2017 11:29:15 +0000 Fill Data Phase 2 - Selected the DB
+Mon, 27 Nov 2017 11:29:15 +0000 Fill Data Phase 2 - Reading DB Script
+Mon, 27 Nov 2017 11:29:15 +0000 Fill Data Phase 2 - Opened DB Script
+Mon, 27 Nov 2017 11:29:15 +0000 Fill Data Phase 2 - Read DB script
+Mon, 27 Nov 2017 11:29:15 +0000 Fill Data Phase 2 - There are 134 Statements in the DB script
+Mon, 27 Nov 2017 11:29:23 +0000 MySQL Event Error:No database selected
+Mon, 27 Nov 2017 11:29:23 +0000 Fill Data Phase 1 - Connected to the DB Server
+Mon, 27 Nov 2017 11:29:23 +0000 Fill Data Phase 2 - Done
+Mon, 27 Nov 2017 11:29:23 +0000 Fill Data Phase 2 - No Errors
+Mon, 27 Nov 2017 11:29:27 +0000 Create DB user - Starting
+Mon, 27 Nov 2017 11:29:27 +0000 Create DB user - Done
+Mon, 27 Nov 2017 11:29:27 +0000 Create DB user - No Errors
+Mon, 27 Nov 2017 11:29:29 +0000 Create OrangeHRM user - Starting
+Mon, 27 Nov 2017 11:29:29 +0000 Create OrangeHRM user - Done
+Mon, 27 Nov 2017 11:29:29 +0000 Create OrangeHRM user - No Errors
+Mon, 27 Nov 2017 11:29:31 +0000 Write Conf - Starting
+Mon, 27 Nov 2017 11:29:31 +0000 Write Conf - Done
+Mon, 27 Nov 2017 11:29:31 +0000 Write Conf - No Errors
